@@ -64,9 +64,10 @@ const MovieDetail = () => {
                       <p
                         style={{
                           background: "red ",
-                          width: "10% ",
+                          width: "50% ",
+                          margin:"auto",
                           textAlign: "center",
-                          padding: "10px",
+                          padding: "1rem",
                           borderRadius:"20px"
                         }}
                       >

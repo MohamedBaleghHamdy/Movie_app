@@ -36,7 +36,7 @@ const Home = () => {
             >
               <div>
                 <img
-                  style={{ width: "100%", height: "80vh" }}
+                  style={{ width: "100%", height: "60vh" }}
                   src={`https://image.tmdb.org/t/p/original${
                     item && item.backdrop_path
                   }`}
